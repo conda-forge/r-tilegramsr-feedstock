@@ -1,11 +1,11 @@
-About r-tilegramsr
-==================
+About r-tilegramsr-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tilegramsr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/bhaskarvk/tilegramsR
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tilegramsr-feedstock/blob/main/LICENSE.txt)
 
 Summary: R spatial objects for Tilegrams. Tilegrams are tiled maps where the region size is proportional to the certain characteristics of the dataset.
 
